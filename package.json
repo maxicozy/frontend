@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxicozy/frontend.git"
+  },
+  "author": "maxicozy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxicozy/frontend/issues"
+  },
+  "homepage": "https://github.com/maxicozy/frontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
